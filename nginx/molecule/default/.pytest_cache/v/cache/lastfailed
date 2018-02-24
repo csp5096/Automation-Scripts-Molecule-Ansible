@@ -1,0 +1,3 @@
+{
+  "tests/test_default.py::test_nginx_is_enabled[ansible://instance]": true
+}
